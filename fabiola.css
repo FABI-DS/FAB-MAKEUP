@@ -1,0 +1,82 @@
+body{
+    background-color:#FFE4E1;
+    font-family:Arial;
+    margin:20px;
+}
+
+/* HEADER */
+header{
+    background-image:url("header.jpg");
+    background-size:cover;
+    color:white;
+    text-align:center;
+    padding:40px;
+    border-radius:15px;
+}
+
+/* NAV */
+nav{
+    background-image:url("nav.jpg");
+    background-size:cover;
+    padding:20px;
+    margin-top:10px;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:20px;
+    font-size:20px;
+}
+
+/* SECTION */
+section{
+    background-image:url("section.jpg");
+    background-size:cover;
+    padding:30px;
+    margin-top:10px;
+    width:65%;
+    float:left;
+    border:3px solid pink;
+    background-color:white;
+}
+
+/* ASIDE */
+aside{
+    background-image:url("aside.jpg");
+    background-size:cover;
+    padding:20px;
+    margin-top:10px;
+    width:25%;
+    float:right;
+    border:3px solid pink;
+    text-align:center;
+}
+
+/* FOOTER */
+footer{
+    background-image:url("footer.jpg");
+    background-size:cover;
+    clear:both;
+    padding:20px;
+    margin-top:10px;
+    text-align:center;
+    color:white;
+}
+
+/* TABLA */
+table{
+    width:100%;
+    background-color:white;
+}
+
+th{
+    background-color:#FF69B4;
+    color:white;
+}
+
+td{
+    text-align:center;
+    padding:10px;
+}
